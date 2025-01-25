@@ -29,12 +29,15 @@ function Question2 () {
         if (certificate) {
             alert("Completed");
         }
-        else ("Not Completed");
+        else {
+          alert("Not Completed");
     }
 
-    else {
-        alert ("Not Completed");
-    }
+}
+else {
+  alert ("Not Completed");
+}
+
 
 }
 
